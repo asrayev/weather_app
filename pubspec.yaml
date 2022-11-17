@@ -39,6 +39,9 @@ dependencies:
   flutter_svg: ^1.1.5
   flutter_screenutil: ^5.5.4
   shimmer: ^2.0.0
+  http: ^0.13.5
+  location: ^4.4.0
+  google_fonts: ^3.0.1
 
 dev_dependencies:
   flutter_test:
@@ -85,7 +88,7 @@ flutter:
   fonts:
     - family: Display
       fonts:
-        - asset: assets/fonts/display.otf
+        - asset: assets/fonts/display.OTF
           weight: 400
   # fonts:
   #   - family: Schyler
